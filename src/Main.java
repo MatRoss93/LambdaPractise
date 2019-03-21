@@ -7,6 +7,16 @@ public class Main {
     public static void main(String... args) {
 
         String s1 = "lambda";
-        
+        String s2 = "przetwarzanie";
+        String s3 = "nauka";
+        String s4 = "do git commit problem";
+
+        int add = 10 + 20;
+        int sum = 0;
+        for(int i = 0; i < 10; i ++) {
+            sum += i;
+        }
+        System.out.println(sum);
+
     }
 }
