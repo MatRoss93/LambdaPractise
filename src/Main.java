@@ -8,7 +8,6 @@ public class Main {
 
         String s1 = "lambda";
         String s2 = "przetwarzanie";
-        String s3 = "nauka";
 
     }
 }
