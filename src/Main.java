@@ -11,9 +11,7 @@ public class Main {
 
         int add = 10 + 20;
         int sum = 0;
-        for(int i = 0; i < 10; i ++) {
-            sum += i;
-        }
+       
         System.out.println(sum);
         sum += add;
     }
