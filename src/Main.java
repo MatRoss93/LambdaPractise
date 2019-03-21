@@ -17,6 +17,6 @@ public class Main {
             sum += i;
         }
         System.out.println(sum);
-
+        sum += add;
     }
 }
