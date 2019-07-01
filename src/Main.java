@@ -23,6 +23,7 @@ public class Main {
             sum += i;
         }
         System.out.println(sum);
+        System.out.println("czy będzie konflikt?");
         
     }
 }
